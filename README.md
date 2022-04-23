@@ -1,3 +1,3 @@
 # Roboclash
 
-Robot code for Roboclash 2022
+Arduino code for Roboclash 2022
